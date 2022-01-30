@@ -1,6 +1,6 @@
 # TinDog
 
-This is a solution to the TinDog. A challenge from The Complete 2022 Web Development Bootcamp, Udemy course of Dr. Angela Yu.
+This is a solution to the TinDog. A challenge from The Complete 2022 Web Development Bootcamp, [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) of Dr. Angela Yu.
 
 ## Table of contents
 
