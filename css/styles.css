@@ -1,0 +1,216 @@
+
+h1{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(87, 85, 85);
+    
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 1.5;
+
+}
+
+
+#cta h3{
+    font-size: 2.5rem;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(87, 85, 85);
+    padding: 6%;
+    
+}
+
+#features h3{
+    margin-top: 1rem;
+ 
+ }
+
+#title{
+    background-color: #ff4c68;
+    
+    
+}
+
+.container-image{
+    position: relative;
+}
+
+
+.container-fluid{
+    padding: 3% 15% 3%;
+    margin: 0;
+}
+
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 1px rgb(87, 85, 85);
+    
+
+}
+
+.navbar .container-fluid{
+    padding: 0;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.2rem;
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+  
+}
+
+.download__button{
+    margin: 5% 3% 5% 0;
+}
+
+@media screen and (max-width:1028px){
+    .container-presentation{
+        text-align: center;
+    }
+
+    .title-image{
+        transform: rotate(0deg);
+        position: static;
+      
+    }
+}
+
+
+#features .fas,.far{
+   color: #ef8172;
+
+}
+
+
+ #features p{
+    color: #8f8f8f;
+ 
+ }
+
+ #features {
+    text-align: center;
+    background-color:white ;
+    position: relative;
+    
+ 
+ }
+
+ #features i:hover{
+    color: #ff4c68;
+ 
+ }
+
+/*Features Section*/
+
+#testimonials{
+
+    
+    text-align: center;
+    background-color:#ef8172 ;
+    color: #ffff;
+}
+
+
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/*Press Section*/
+
+
+#press{
+
+    background-color:#ef8172 ;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+
+.press-log{
+    width: 15%;
+    margin:20px 20px 50px;
+}
+
+/*Pricing Section*/
+
+
+#pricing{
+
+    padding:100px;
+    text-align: center;
+    
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+/*Call Section*/
+
+
+#cta{
+
+    background-color:#ff4c68 ;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+
+
+.download__button{
+    margin: 5% 3% 5% 0;
+}
+
+/*Footer Section*/
+
+
+#footer{
+
+    background-color:#fff ;
+    text-align: center;
+    padding: 8% 5%;
+    
+}
+
+#footer a{
+    color: black;
+    padding: 0.5%;
+}
+
+#footer p{
+    color: rgb(194, 189, 189);
+    padding-top: 5%;
+}
